@@ -30,4 +30,19 @@ git clone https://github.com/your-repo/ecommerce-api.git
 ├── .env
 ├── server.js
 
+#getAllProducts
+ GET product api http://localhost:5000/api/products/products
+
+# getProductById
+ GET product api http://localhost:5000/api/products/products/:id
+
+ # updateProduct
+ put product api http://localhost:5000/api/products/products/:id
+
+ # deleteProduct
+ delete product api http://localhost:5000/api/products/products/:id
+
+
+
+
 
